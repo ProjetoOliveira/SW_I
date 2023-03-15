@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\DesafioAlunos\bin\Debug\net7.0\DesafioAlunos.exe
+C:\Users\LAB4\Desktop\DesafioAlunos\bin\Debug\net7.0\DesafioAlunos.deps.json
+C:\Users\LAB4\Desktop\DesafioAlunos\bin\Debug\net7.0\DesafioAlunos.runtimeconfig.json
+C:\Users\LAB4\Desktop\DesafioAlunos\bin\Debug\net7.0\DesafioAlunos.dll
+C:\Users\LAB4\Desktop\DesafioAlunos\bin\Debug\net7.0\DesafioAlunos.pdb
+C:\Users\LAB4\Desktop\DesafioAlunos\obj\Debug\net7.0\DesafioAlunos.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\DesafioAlunos\obj\Debug\net7.0\DesafioAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\DesafioAlunos\obj\Debug\net7.0\DesafioAlunos.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\DesafioAlunos\obj\Debug\net7.0\DesafioAlunos.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\DesafioAlunos\obj\Debug\net7.0\DesafioAlunos.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\DesafioAlunos\obj\Debug\net7.0\DesafioAlunos.dll
+C:\Users\LAB4\Desktop\DesafioAlunos\obj\Debug\net7.0\refint\DesafioAlunos.dll
+C:\Users\LAB4\Desktop\DesafioAlunos\obj\Debug\net7.0\DesafioAlunos.pdb
+C:\Users\LAB4\Desktop\DesafioAlunos\obj\Debug\net7.0\DesafioAlunos.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\DesafioAlunos\obj\Debug\net7.0\ref\DesafioAlunos.dll
