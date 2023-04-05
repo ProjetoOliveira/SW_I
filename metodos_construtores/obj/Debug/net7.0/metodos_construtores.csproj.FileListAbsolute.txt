@@ -1,0 +1,5 @@
+C:\Users\LAB4\Desktop\metodos_construtores\obj\Debug\net7.0\metodos_construtores.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\metodos_construtores\obj\Debug\net7.0\metodos_construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\metodos_construtores\obj\Debug\net7.0\metodos_construtores.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\metodos_construtores\obj\Debug\net7.0\metodos_construtores.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\metodos_construtores\obj\Debug\net7.0\metodos_construtores.csproj.CoreCompileInputs.cache
