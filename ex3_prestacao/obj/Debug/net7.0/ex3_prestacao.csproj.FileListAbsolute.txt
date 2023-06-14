@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\ex3_prestacao\bin\Debug\net7.0\ex3_prestacao.exe
+C:\Users\LAB4\Desktop\ex3_prestacao\bin\Debug\net7.0\ex3_prestacao.deps.json
+C:\Users\LAB4\Desktop\ex3_prestacao\bin\Debug\net7.0\ex3_prestacao.runtimeconfig.json
+C:\Users\LAB4\Desktop\ex3_prestacao\bin\Debug\net7.0\ex3_prestacao.dll
+C:\Users\LAB4\Desktop\ex3_prestacao\bin\Debug\net7.0\ex3_prestacao.pdb
+C:\Users\LAB4\Desktop\ex3_prestacao\obj\Debug\net7.0\ex3_prestacao.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\ex3_prestacao\obj\Debug\net7.0\ex3_prestacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\ex3_prestacao\obj\Debug\net7.0\ex3_prestacao.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\ex3_prestacao\obj\Debug\net7.0\ex3_prestacao.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\ex3_prestacao\obj\Debug\net7.0\ex3_prestacao.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\ex3_prestacao\obj\Debug\net7.0\ex3_prestacao.dll
+C:\Users\LAB4\Desktop\ex3_prestacao\obj\Debug\net7.0\refint\ex3_prestacao.dll
+C:\Users\LAB4\Desktop\ex3_prestacao\obj\Debug\net7.0\ex3_prestacao.pdb
+C:\Users\LAB4\Desktop\ex3_prestacao\obj\Debug\net7.0\ex3_prestacao.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\ex3_prestacao\obj\Debug\net7.0\ref\ex3_prestacao.dll
